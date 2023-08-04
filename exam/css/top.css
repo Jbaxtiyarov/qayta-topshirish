@@ -1,0 +1,30 @@
+#backtop {
+  width: 40px;
+  height: 40px;
+  font-size: 25px;
+  line-height: 40px;
+  position: fixed;
+  border: 2px solid white;
+  bottom: 30px;
+  right: 30px;
+  background-color: #232536;
+  color: white;
+  opacity: 0;
+  transition: 1s;
+  text-align: center;
+  border-radius: 100%;
+  z-index: 99;
+}
+
+#backtop a {
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+
+
+
+
